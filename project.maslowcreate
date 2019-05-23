@@ -102,8 +102,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 164,
+                    "x": 1230,
+                    "y": 212.5,
                     "ioValues": []
                 }
             ],
@@ -255,8 +255,8 @@
                 {
                     "atomType": "Readme",
                     "name": "README",
-                    "x": 702,
-                    "y": 56,
+                    "x": 699,
+                    "y": 52,
                     "uniqueID": 800690,
                     "ioValues": [],
                     "readmeText": "Molecules like this one let you layer your model to create more space. Real estate on the screen is intentionally limited to keep projects from becoming cluttered. There is no limit to how deep you can logically nest Atoms in Molecules"
@@ -324,8 +324,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 164,
+                    "x": 1230,
+                    "y": 212.5,
                     "ioValues": []
                 }
             ],
