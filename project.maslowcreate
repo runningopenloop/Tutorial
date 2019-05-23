@@ -273,7 +273,7 @@
                     "atomType": "Readme",
                     "name": "README",
                     "x": 716,
-                    "y": 284,
+                    "y": 255,
                     "uniqueID": 606302,
                     "ioValues": [],
                     "readmeText": "This difference Atom subtracts one shape from another. For the opposite behavior check out the intersection atom."
